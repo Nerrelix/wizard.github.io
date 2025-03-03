@@ -1,0 +1,11 @@
+{
+  "patches": [
+    {
+      "files": [ "test.txt" ],
+      "folder": "game/",
+      "version": 0.1,
+      "save_as": "test.txt"
+    }
+
+  ]
+}
